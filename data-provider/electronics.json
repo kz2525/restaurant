@@ -1,0 +1,689 @@
+{
+  "categories": [
+    
+       
+            {
+              "name": "Milkshake",
+              "id": "cat_5da8d5eb231e0ba1bee75250",
+              "products": [
+                {
+                  "name": "Apple  Shake",
+                  "id": "prod_5dcvccc6d5ecaf200d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1029273348/photo/apple-pie-protein-smoothie-drink.jpg?s=612x612&w=0&k=20&c=yfrEHgTPnputiPAUDqr1bZOJBREJQ7G7FV0B8dG9-AE=",
+                  
+                  "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Mango Shake",
+                  "id": "prod_5dc3d5ecaf247777700d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1056675358/photo/healthy-mango-smoothie.jpg?s=612x612&w=0&k=20&c=-6wKcUf2trNP1wHOoCnEJxNPcK7cqQ8dPQdqAnOJEoU=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                }, {
+                  "name": "Dates Shake",
+                  "id": "prod_5dc3d5ec767af247777700d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1002274560/photo/banana-and-date-fruit-smoothie-or-milkshake-in-glass-mason-jar.jpg?s=612x612&w=0&k=20&c=OOXeRFFysgqweoq9mi-OqdEObNKnJYwz03CJyq7_kcY=",
+                 
+                  "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                }, {
+                  "name": "Strawberry  Shake",
+                  "id": "prod_5dc3d53333ec767af247777700d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1222703678/photo/healthy-raspberry-smoothie-with-coconut-milk.jpg?s=612x612&w=0&k=20&c=yNBpeD2vlyTDGpST_2RfV0jQ0Rbr1EnthWtfX167-m8=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },  {
+                  "name": "Apple Banana Shake",
+                  "id": "prod_5dc3d5345333ec767af247777700d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1356509265/photo/fruit-smoothie-with-banana-apple-on-a-dark-background-healthy-breakfast.jpg?s=612x612&w=0&k=20&c=J7L1FjZ3oPI4woCqzbyNLBZnQg-bRDEYdJv_0ACiBmw=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },{
+                  "name": "Mango Banana Shake",
+                  "id": "prod_5dc3d53453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/487564536/photo/healthy-yellow-smoothie-with-mango-pineapple-banana-in-mason-jar.jpg?s=612x612&w=0&k=20&c=xswWce3WsORzLdq9bm2rlVDBt4n0dMk10aPRAFgRpVY=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },{
+                  "name": "Apple Dates Shake",
+                  "id": "prod_5545454dc3d53453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/821008516/photo/apple-pie-smoothie.jpg?s=612x612&w=0&k=20&c=yz1iK5p14C3T3v7aZzzQZfExZrRrPF6kpA9rqUvlnW4=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },{
+                  "name": "Mango Dates Shake",
+                  "id": "prod_5545454dc3d5rr3453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1056397886/photo/mango-smoothies-yellow-colorful-fruit-juice-milkshake-blend-beverage-healthy-high-protein-the.jpg?s=612x612&w=0&k=20&c=A-2ucjLUt3TAoER-v2V_AjBGIlFUMuo-pWElGYKZI5Y=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },{
+                  "name": "Peach Dates Shake",
+                  "id": "prod_5545456654dc3d5rr3453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/536904338/photo/apricot-and-peach-smoothie.jpg?s=612x612&w=0&k=20&c=BuPpwLC4PL8vYpzwhGOn3w4hptmdLvF0fWzio8Fvz1E=",
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },{
+                  "name": "Peach Shake",
+                  "id": "prod_5dc3545d5ec767af247777700d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1596483563/photo/a-glass-of-apricot-smoothie-on-a-dark-wooden-background-close-up.jpg?s=612x612&w=0&k=20&c=LUEbkbQeOmXKPgnQK96Qcr-bhO5K_e_PB7tVR1-JhyY=",
+                 
+                 "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },  {
+                  "name": "Strawberry  Dates Shake",
+                  "id": "prod_51245456654dc3d5rr3453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1496402363/photo/strawberry-glaze-smoothie.jpg?s=612x612&w=0&k=20&c=gbMO73PgDfHAHOhWwWAMwRjMzQlxriR4qdQOWtolsko=",
+                 
+                "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                }, {
+                  "name": "Banana Dates Shake",
+                  "id": "prod_51768245456654dc3d5rr3453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://media.istockphoto.com/id/1002274646/photo/banana-and-date-fruit-smoothie-or-milkshake-in-glass-mason-jar.jpg?s=612x612&w=0&k=20&c=ZYJzE5o-XQDn-fUDMfaLx9RwHTj4jj4RA6st1BozbL0=",
+                 
+                "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                      ]
+                    }
+                  ]
+                },{
+              "name": "Banana Shake",
+              "id": "prod_5dc3d5ecaf25555500d66af5151459",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1035941188/photo/banana-protein-smoothie-in-drinking-glass.jpg?s=612x612&w=0&k=20&c=z_ZA5aNB4EmrK91LnABUV8qHdIbAuud3AZu7iEPsWEk=",
+             "price": "200",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Small",
+                        "value": "small",
+                        "addon_price": "0"
+                      },
+                        {
+                          "value_name": "Small special",
+                         
+                          "addon_price": "150"
+                        },
+                        {
+                          "value_name": "Large",
+                          "value": "medium",
+                          "addon_price": "100"
+                        },
+                        {
+                          "value_name": "Large Special",
+                          "value": "large",
+                          "addon_price": "300"
+                        }
+                  ]
+                }
+              
+        
+          ]
+        }
+      ]},   
+   
+        {
+          "name": "Icecream  Shake",
+          "id": "cat_5da8d5eb231e0ba1be75250",
+          "products": [
+            {
+              "name": "Chocolate Shake",
+              "id": "prod_5dc6d5ecaf20d66af5151459",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/486091503/photo/milkshake-with-whole-cookie-and-crumbs.jpg?s=612x612&w=0&k=20&c=Xz3iVHCw908rFZYOCvh5RUt4sEB-TdjycbMb1vhmKnw=",
+              "price": "550",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": [
+                {
+                  "title": "Glass Size",
+                  "values": [{
+                    "value_name": "Chocolate shake",
+                    "value": "small",
+                    "addon_price": ""
+                  },
+                    {
+                      "value_name": "Chocolate shake Dryfruit",
+                     
+                      "addon_price": "150"
+                    }
+                    
+                        
+                  ]
+                }
+              ]
+            },  {
+              "name": "Mango Icecream Shake",
+              "id": "prod_5dc6d5ecaf20d665676af5151459",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1421310938/photo/mango-smoothies-drinking-glass-high-resolution-stock.jpg?s=612x612&w=0&k=20&c=ue0rPTJdGL-aeIhbnxMdrdqngiVR8Ez2GoJVs_4VQUg=",
+             
+             "price": "550",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Chocolate shake",
+                        "value": "small",
+                        "addon_price": ""
+                      },
+                        {
+                          "value_name": "Chocolate shake Dryfruit",
+                         
+                          "addon_price": "150"
+                        }
+                        
+                  ]
+                }
+              ]
+            }, {
+              "name": "Vanilla Shake",
+              "id": "prod_5dc6d5eca66f20d665676af5151459",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1018364696/photo/banana-almond-smoothie-with-cinnamon-and-oat-flakes-and-coconut-milk-in-glass-jars.jpg?s=612x612&w=0&k=20&c=FefdMjOaJN-SIW43vUdriEFvHi4n8IOpoOm3wabOvQI=",
+             
+              "price": "550",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": [
+                {
+                  "title": "Glass Size",
+                  "values": [{
+                    "value_name": "Chocolate shake",
+                    "value": "small",
+                    "addon_price": ""
+                  },
+                    {
+                      "value_name": "Chocolate shake Dryfruit",
+                     
+                      "addon_price": "150"
+                    }
+                  ]
+                }
+              ]
+            }, {
+              "name": "Tuti-Fruti Shake",
+              "id": "prod_5dc6d5ecaf20d8787665676af5151459",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1267140112/photo/summer-cocktails.jpg?s=612x612&w=0&k=20&c=DQsfw4NO6lnTV2BMiBouvrqv10uHtiQVTcvdYLiH6rU=",
+             
+              "price": "550",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Glass Size",
+                      "values": [{
+                        "value_name": "Chocolate shake",
+                        "value": "small",
+                        "addon_price": ""
+                      },
+                        {
+                          "value_name": "Chocolate shake Dryfruit",
+                         
+                          "addon_price": "150"
+                        }
+                        
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Strawberry Icecream Shake",
+              "id": "prod_5dc3d5ecaf20d66af5151459",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1137384304/photo/food.jpg?s=612x612&w=0&k=20&c=eEYBGuUb7ABihMFDZ5IZLJ5q68RjRZXgjD41RJAEi-c=",
+             
+              "price": "550",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": [
+                {
+                  "title": "Glass Size",
+                  "values": [{
+                    "value_name": "Chocolate shake",
+                    "value": "small",
+                    "addon_price": ""
+                  },
+                    {
+                      "value_name": "Chocolate shake Dryfruit",
+                     
+                      "addon_price": "150"
+                    }
+                        
+                  ]
+                }
+              ]
+
+           
+            }
+
+        
+        
+           
+          ]
+      
+    },
+     
+      
+        {
+          "name": "Others",
+          "id": "cat_5da4d5eb231e0ba1be75252",
+          "products": [
+            {
+              "name": "Mint Margarita",
+              "id": "prod_5dced5e52f20d66af5151451",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1266646068/photo/mojito-cocktail.jpg?s=612x612&w=0&k=20&c=ABZcyWVqwN3mErFIZeJxorb_Z92Ro12-RWH02oZGPsI=",
+              "tax_percentage": "16.75",
+              "price": "120",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Special Lassi",
+              "id": "prod_5dced5e52f20d66af5151452",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://media.istockphoto.com/id/1243439079/photo/pouring-homemade-kefir-buttermilk-or-yogurt.jpg?s=612x612&w=0&k=20&c=StznhEwnTTAIFWbXTibbjRtoMbUzvsVfbMN48Ly5o_k=",
+              "tax_percentage": "16.75",
+              "price": "200",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            }
+            
+        
+              
+             
+  
+      ]
+    }
+  ]
+}
+
